@@ -1,1 +1,1 @@
-# SchoolFinder_project this is my project
+# SchoolFinder_project 
